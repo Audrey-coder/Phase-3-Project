@@ -56,10 +56,10 @@ The Random Forest model achieved the highest accuracy and best predictive perfor
 ## Results & Visualizations
 
 * Model Accuracy Comparison: Bar plots comparing baseline vs. tuned models
-![Churn Distribution](Images/Feature bar.png)
+![Churn Distribution](Images/Feature_bar.png)
 
 * Feature Correlations: Heatmaps showing relationships between features and churn
-![Churn Distribution](Images/FEATURE CORRELATION.png)
+![Churn Distribution](Images/FEATURE_CORRELATION.png)
 
 * ROC Curve Analysis: Performance comparison of all models
-![Churn Distribution](Images/ROC CURVE COMPARISON.png)
+![Churn Distribution](Images/ROC_CURVE_COMPARISON.png)
